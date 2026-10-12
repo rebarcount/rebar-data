@@ -103,6 +103,12 @@ purchase order, use the figures your yard actually stocks.
 A browser version of this calculation, with a full cut list and metric/imperial
 switching, runs at <https://rebarcount.com>.
 
+## Cite this dataset
+
+If you use these tables, please cite the Zenodo archive:
+
+> rebarcount. (2026). *Rebar size, weight and area dataset (imperial #3–#18 and metric 10–40 mm)*. Zenodo. https://doi.org/10.5281/zenodo.23332321
+
 ## License
 
 MIT. See `LICENSE`.
